@@ -1,0 +1,15 @@
+C:\Users\Vinícius\OneDrive\Área de Trabalho\Exercicios C#\conta bancaria\bin\Debug\net7.0\conta bancaria.exe
+C:\Users\Vinícius\OneDrive\Área de Trabalho\Exercicios C#\conta bancaria\bin\Debug\net7.0\conta bancaria.deps.json
+C:\Users\Vinícius\OneDrive\Área de Trabalho\Exercicios C#\conta bancaria\bin\Debug\net7.0\conta bancaria.runtimeconfig.json
+C:\Users\Vinícius\OneDrive\Área de Trabalho\Exercicios C#\conta bancaria\bin\Debug\net7.0\conta bancaria.dll
+C:\Users\Vinícius\OneDrive\Área de Trabalho\Exercicios C#\conta bancaria\bin\Debug\net7.0\conta bancaria.pdb
+C:\Users\Vinícius\OneDrive\Área de Trabalho\Exercicios C#\conta bancaria\obj\Debug\net7.0\conta bancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinícius\OneDrive\Área de Trabalho\Exercicios C#\conta bancaria\obj\Debug\net7.0\conta bancaria.AssemblyInfoInputs.cache
+C:\Users\Vinícius\OneDrive\Área de Trabalho\Exercicios C#\conta bancaria\obj\Debug\net7.0\conta bancaria.AssemblyInfo.cs
+C:\Users\Vinícius\OneDrive\Área de Trabalho\Exercicios C#\conta bancaria\obj\Debug\net7.0\conta bancaria.csproj.CoreCompileInputs.cache
+C:\Users\Vinícius\OneDrive\Área de Trabalho\Exercicios C#\conta bancaria\obj\Debug\net7.0\conta bancaria.dll
+C:\Users\Vinícius\OneDrive\Área de Trabalho\Exercicios C#\conta bancaria\obj\Debug\net7.0\refint\conta bancaria.dll
+C:\Users\Vinícius\OneDrive\Área de Trabalho\Exercicios C#\conta bancaria\obj\Debug\net7.0\conta bancaria.pdb
+C:\Users\Vinícius\OneDrive\Área de Trabalho\Exercicios C#\conta bancaria\obj\Debug\net7.0\conta bancaria.genruntimeconfig.cache
+C:\Users\Vinícius\OneDrive\Área de Trabalho\Exercicios C#\conta bancaria\obj\Debug\net7.0\ref\conta bancaria.dll
+C:\Users\Vinícius\OneDrive\Área de Trabalho\Exercicios C#\conta bancaria\obj\Debug\net7.0\conta bancaria.sourcelink.json
