@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vin\u00EDcius\\OneDrive\\\u00C1rea de Trabalho\\GerarFormas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E317471-82A0-49EA-98AB-7AAEBE6BD8D9}|ConsoleApp7\\ConsoleApp7.csproj|c:\\users\\vin\u00EDcius\\onedrive\\\u00E1rea de trabalho\\gerarformas\\consoleapp7\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E317471-82A0-49EA-98AB-7AAEBE6BD8D9}|ConsoleApp7\\ConsoleApp7.csproj|solutionrelative:consoleapp7\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E317471-82A0-49EA-98AB-7AAEBE6BD8D9}|ConsoleApp7\\ConsoleApp7.csproj|c:\\users\\vin\u00EDcius\\onedrive\\\u00E1rea de trabalho\\gerarformas\\consoleapp7\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E317471-82A0-49EA-98AB-7AAEBE6BD8D9}|ConsoleApp7\\ConsoleApp7.csproj|solutionrelative:consoleapp7\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E317471-82A0-49EA-98AB-7AAEBE6BD8D9}|ConsoleApp7\\ConsoleApp7.csproj|c:\\users\\vin\u00EDcius\\onedrive\\\u00E1rea de trabalho\\gerarformas\\consoleapp7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E317471-82A0-49EA-98AB-7AAEBE6BD8D9}|ConsoleApp7\\ConsoleApp7.csproj|solutionrelative:consoleapp7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E317471-82A0-49EA-98AB-7AAEBE6BD8D9}|ConsoleApp7\\ConsoleApp7.csproj|c:\\users\\vin\u00EDcius\\onedrive\\\u00E1rea de trabalho\\gerarformas\\consoleapp7\\forma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E317471-82A0-49EA-98AB-7AAEBE6BD8D9}|ConsoleApp7\\ConsoleApp7.csproj|solutionrelative:consoleapp7\\forma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E317471-82A0-49EA-98AB-7AAEBE6BD8D9}|ConsoleApp7\\ConsoleApp7.csproj|c:\\users\\vin\u00EDcius\\onedrive\\\u00E1rea de trabalho\\gerarformas\\consoleapp7\\gerarforma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E317471-82A0-49EA-98AB-7AAEBE6BD8D9}|ConsoleApp7\\ConsoleApp7.csproj|solutionrelative:consoleapp7\\gerarforma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E317471-82A0-49EA-98AB-7AAEBE6BD8D9}|ConsoleApp7\\ConsoleApp7.csproj|c:\\users\\vin\u00EDcius\\onedrive\\\u00E1rea de trabalho\\gerarformas\\consoleapp7\\circuferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E317471-82A0-49EA-98AB-7AAEBE6BD8D9}|ConsoleApp7\\ConsoleApp7.csproj|solutionrelative:consoleapp7\\circuferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GerarForma.cs",
+              "DocumentMoniker": "C:\\Users\\Vin\u00EDcius\\OneDrive\\\u00C1rea de Trabalho\\GerarFormas\\ConsoleApp7\\GerarForma.cs",
+              "RelativeDocumentMoniker": "ConsoleApp7\\GerarForma.cs",
+              "ToolTip": "C:\\Users\\Vin\u00EDcius\\OneDrive\\\u00C1rea de Trabalho\\GerarFormas\\ConsoleApp7\\GerarForma.cs",
+              "RelativeToolTip": "ConsoleApp7\\GerarForma.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T00:09:57.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Quadrado.cs",
+              "DocumentMoniker": "C:\\Users\\Vin\u00EDcius\\OneDrive\\\u00C1rea de Trabalho\\GerarFormas\\ConsoleApp7\\Quadrado.cs",
+              "RelativeDocumentMoniker": "ConsoleApp7\\Quadrado.cs",
+              "ToolTip": "C:\\Users\\Vin\u00EDcius\\OneDrive\\\u00C1rea de Trabalho\\GerarFormas\\ConsoleApp7\\Quadrado.cs",
+              "RelativeToolTip": "ConsoleApp7\\Quadrado.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T00:09:57.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Circuferencia.cs",
+              "DocumentMoniker": "C:\\Users\\Vin\u00EDcius\\OneDrive\\\u00C1rea de Trabalho\\GerarFormas\\ConsoleApp7\\Circuferencia.cs",
+              "RelativeDocumentMoniker": "ConsoleApp7\\Circuferencia.cs",
+              "ToolTip": "C:\\Users\\Vin\u00EDcius\\OneDrive\\\u00C1rea de Trabalho\\GerarFormas\\ConsoleApp7\\Circuferencia.cs",
+              "RelativeToolTip": "ConsoleApp7\\Circuferencia.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T00:09:57.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\Vin\u00EDcius\\OneDrive\\\u00C1rea de Trabalho\\GerarFormas\\ConsoleApp7\\Triangulo.cs",
+              "RelativeDocumentMoniker": "ConsoleApp7\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\Vin\u00EDcius\\OneDrive\\\u00C1rea de Trabalho\\GerarFormas\\ConsoleApp7\\Triangulo.cs",
+              "RelativeToolTip": "ConsoleApp7\\Triangulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T00:09:57.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Forma.cs",
+              "DocumentMoniker": "C:\\Users\\Vin\u00EDcius\\OneDrive\\\u00C1rea de Trabalho\\GerarFormas\\ConsoleApp7\\Forma.cs",
+              "RelativeDocumentMoniker": "ConsoleApp7\\Forma.cs",
+              "ToolTip": "C:\\Users\\Vin\u00EDcius\\OneDrive\\\u00C1rea de Trabalho\\GerarFormas\\ConsoleApp7\\Forma.cs",
+              "RelativeToolTip": "ConsoleApp7\\Forma.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T00:09:57.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vin\u00EDcius\\OneDrive\\\u00C1rea de Trabalho\\GerarFormas\\ConsoleApp7\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp7\\Program.cs",
+              "ToolTip": "C:\\Users\\Vin\u00EDcius\\OneDrive\\\u00C1rea de Trabalho\\GerarFormas\\ConsoleApp7\\Program.cs",
+              "RelativeToolTip": "ConsoleApp7\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T00:09:57.213Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

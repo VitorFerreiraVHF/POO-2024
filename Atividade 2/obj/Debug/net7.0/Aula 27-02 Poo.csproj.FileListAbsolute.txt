@@ -1,0 +1,15 @@
+C:\Users\Vitor\OneDrive\Área de Trabalho\Exercicios C#\Aula 27-02 Poo\obj\Debug\net7.0\Aula 27-02 Poo.csproj.AssemblyReference.cache
+C:\Users\Vitor\OneDrive\Área de Trabalho\Exercicios C#\Aula 27-02 Poo\obj\Debug\net7.0\Aula 27-02 Poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor\OneDrive\Área de Trabalho\Exercicios C#\Aula 27-02 Poo\obj\Debug\net7.0\Aula 27-02 Poo.AssemblyInfoInputs.cache
+C:\Users\Vitor\OneDrive\Área de Trabalho\Exercicios C#\Aula 27-02 Poo\obj\Debug\net7.0\Aula 27-02 Poo.AssemblyInfo.cs
+C:\Users\Vitor\OneDrive\Área de Trabalho\Exercicios C#\Aula 27-02 Poo\obj\Debug\net7.0\Aula 27-02 Poo.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\OneDrive\Área de Trabalho\Exercicios C#\Aula 27-02 Poo\bin\Debug\net7.0\Aula 27-02 Poo.exe
+C:\Users\Vitor\OneDrive\Área de Trabalho\Exercicios C#\Aula 27-02 Poo\bin\Debug\net7.0\Aula 27-02 Poo.deps.json
+C:\Users\Vitor\OneDrive\Área de Trabalho\Exercicios C#\Aula 27-02 Poo\bin\Debug\net7.0\Aula 27-02 Poo.runtimeconfig.json
+C:\Users\Vitor\OneDrive\Área de Trabalho\Exercicios C#\Aula 27-02 Poo\bin\Debug\net7.0\Aula 27-02 Poo.dll
+C:\Users\Vitor\OneDrive\Área de Trabalho\Exercicios C#\Aula 27-02 Poo\bin\Debug\net7.0\Aula 27-02 Poo.pdb
+C:\Users\Vitor\OneDrive\Área de Trabalho\Exercicios C#\Aula 27-02 Poo\obj\Debug\net7.0\Aula 27-02 Poo.dll
+C:\Users\Vitor\OneDrive\Área de Trabalho\Exercicios C#\Aula 27-02 Poo\obj\Debug\net7.0\refint\Aula 27-02 Poo.dll
+C:\Users\Vitor\OneDrive\Área de Trabalho\Exercicios C#\Aula 27-02 Poo\obj\Debug\net7.0\Aula 27-02 Poo.pdb
+C:\Users\Vitor\OneDrive\Área de Trabalho\Exercicios C#\Aula 27-02 Poo\obj\Debug\net7.0\Aula 27-02 Poo.genruntimeconfig.cache
+C:\Users\Vitor\OneDrive\Área de Trabalho\Exercicios C#\Aula 27-02 Poo\obj\Debug\net7.0\ref\Aula 27-02 Poo.dll

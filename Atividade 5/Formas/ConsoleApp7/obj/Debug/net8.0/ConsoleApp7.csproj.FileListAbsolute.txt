@@ -1,0 +1,42 @@
+C:\Users\046466\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net8.0\ConsoleApp7.exe
+C:\Users\046466\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net8.0\ConsoleApp7.deps.json
+C:\Users\046466\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net8.0\ConsoleApp7.runtimeconfig.json
+C:\Users\046466\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net8.0\ConsoleApp7.dll
+C:\Users\046466\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net8.0\ConsoleApp7.pdb
+C:\Users\046466\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\046466\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.AssemblyInfoInputs.cache
+C:\Users\046466\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.AssemblyInfo.cs
+C:\Users\046466\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\046466\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.dll
+C:\Users\046466\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net8.0\refint\ConsoleApp7.dll
+C:\Users\046466\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.pdb
+C:\Users\046466\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.genruntimeconfig.cache
+C:\Users\046466\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net8.0\ref\ConsoleApp7.dll
+C:\Users\046466\Desktop\dededed\ConsoleApp7\bin\Debug\net8.0\ConsoleApp7.exe
+C:\Users\046466\Desktop\dededed\ConsoleApp7\bin\Debug\net8.0\ConsoleApp7.deps.json
+C:\Users\046466\Desktop\dededed\ConsoleApp7\bin\Debug\net8.0\ConsoleApp7.runtimeconfig.json
+C:\Users\046466\Desktop\dededed\ConsoleApp7\bin\Debug\net8.0\ConsoleApp7.dll
+C:\Users\046466\Desktop\dededed\ConsoleApp7\bin\Debug\net8.0\ConsoleApp7.pdb
+C:\Users\046466\Desktop\dededed\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\046466\Desktop\dededed\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.AssemblyInfoInputs.cache
+C:\Users\046466\Desktop\dededed\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.AssemblyInfo.cs
+C:\Users\046466\Desktop\dededed\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\046466\Desktop\dededed\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.dll
+C:\Users\046466\Desktop\dededed\ConsoleApp7\obj\Debug\net8.0\refint\ConsoleApp7.dll
+C:\Users\046466\Desktop\dededed\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.pdb
+C:\Users\046466\Desktop\dededed\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.genruntimeconfig.cache
+C:\Users\046466\Desktop\dededed\ConsoleApp7\obj\Debug\net8.0\ref\ConsoleApp7.dll
+C:\Users\Vinícius\OneDrive\Área de Trabalho\GerarFormas\ConsoleApp7\bin\Debug\net8.0\ConsoleApp7.exe
+C:\Users\Vinícius\OneDrive\Área de Trabalho\GerarFormas\ConsoleApp7\bin\Debug\net8.0\ConsoleApp7.deps.json
+C:\Users\Vinícius\OneDrive\Área de Trabalho\GerarFormas\ConsoleApp7\bin\Debug\net8.0\ConsoleApp7.runtimeconfig.json
+C:\Users\Vinícius\OneDrive\Área de Trabalho\GerarFormas\ConsoleApp7\bin\Debug\net8.0\ConsoleApp7.dll
+C:\Users\Vinícius\OneDrive\Área de Trabalho\GerarFormas\ConsoleApp7\bin\Debug\net8.0\ConsoleApp7.pdb
+C:\Users\Vinícius\OneDrive\Área de Trabalho\GerarFormas\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinícius\OneDrive\Área de Trabalho\GerarFormas\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.AssemblyInfoInputs.cache
+C:\Users\Vinícius\OneDrive\Área de Trabalho\GerarFormas\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.AssemblyInfo.cs
+C:\Users\Vinícius\OneDrive\Área de Trabalho\GerarFormas\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\Vinícius\OneDrive\Área de Trabalho\GerarFormas\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.dll
+C:\Users\Vinícius\OneDrive\Área de Trabalho\GerarFormas\ConsoleApp7\obj\Debug\net8.0\refint\ConsoleApp7.dll
+C:\Users\Vinícius\OneDrive\Área de Trabalho\GerarFormas\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.pdb
+C:\Users\Vinícius\OneDrive\Área de Trabalho\GerarFormas\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.genruntimeconfig.cache
+C:\Users\Vinícius\OneDrive\Área de Trabalho\GerarFormas\ConsoleApp7\obj\Debug\net8.0\ref\ConsoleApp7.dll

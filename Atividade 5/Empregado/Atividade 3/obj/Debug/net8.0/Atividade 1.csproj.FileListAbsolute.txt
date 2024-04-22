@@ -1,0 +1,28 @@
+C:\Users\046466\source\repos\Atividade 1\Atividade 1\bin\Debug\net8.0\Atividade 1.exe
+C:\Users\046466\source\repos\Atividade 1\Atividade 1\bin\Debug\net8.0\Atividade 1.deps.json
+C:\Users\046466\source\repos\Atividade 1\Atividade 1\bin\Debug\net8.0\Atividade 1.runtimeconfig.json
+C:\Users\046466\source\repos\Atividade 1\Atividade 1\bin\Debug\net8.0\Atividade 1.dll
+C:\Users\046466\source\repos\Atividade 1\Atividade 1\bin\Debug\net8.0\Atividade 1.pdb
+C:\Users\046466\source\repos\Atividade 1\Atividade 1\obj\Debug\net8.0\Atividade 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\046466\source\repos\Atividade 1\Atividade 1\obj\Debug\net8.0\Atividade 1.AssemblyInfoInputs.cache
+C:\Users\046466\source\repos\Atividade 1\Atividade 1\obj\Debug\net8.0\Atividade 1.AssemblyInfo.cs
+C:\Users\046466\source\repos\Atividade 1\Atividade 1\obj\Debug\net8.0\Atividade 1.csproj.CoreCompileInputs.cache
+C:\Users\046466\source\repos\Atividade 1\Atividade 1\obj\Debug\net8.0\Atividade 1.dll
+C:\Users\046466\source\repos\Atividade 1\Atividade 1\obj\Debug\net8.0\refint\Atividade 1.dll
+C:\Users\046466\source\repos\Atividade 1\Atividade 1\obj\Debug\net8.0\Atividade 1.pdb
+C:\Users\046466\source\repos\Atividade 1\Atividade 1\obj\Debug\net8.0\Atividade 1.genruntimeconfig.cache
+C:\Users\046466\source\repos\Atividade 1\Atividade 1\obj\Debug\net8.0\ref\Atividade 1.dll
+C:\Users\Vinícius\OneDrive\Área de Trabalho\Atividade 1\Atividade 1\bin\Debug\net8.0\Atividade 1.exe
+C:\Users\Vinícius\OneDrive\Área de Trabalho\Atividade 1\Atividade 1\bin\Debug\net8.0\Atividade 1.deps.json
+C:\Users\Vinícius\OneDrive\Área de Trabalho\Atividade 1\Atividade 1\bin\Debug\net8.0\Atividade 1.runtimeconfig.json
+C:\Users\Vinícius\OneDrive\Área de Trabalho\Atividade 1\Atividade 1\bin\Debug\net8.0\Atividade 1.dll
+C:\Users\Vinícius\OneDrive\Área de Trabalho\Atividade 1\Atividade 1\bin\Debug\net8.0\Atividade 1.pdb
+C:\Users\Vinícius\OneDrive\Área de Trabalho\Atividade 1\Atividade 1\obj\Debug\net8.0\Atividade 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinícius\OneDrive\Área de Trabalho\Atividade 1\Atividade 1\obj\Debug\net8.0\Atividade 1.AssemblyInfoInputs.cache
+C:\Users\Vinícius\OneDrive\Área de Trabalho\Atividade 1\Atividade 1\obj\Debug\net8.0\Atividade 1.AssemblyInfo.cs
+C:\Users\Vinícius\OneDrive\Área de Trabalho\Atividade 1\Atividade 1\obj\Debug\net8.0\Atividade 1.csproj.CoreCompileInputs.cache
+C:\Users\Vinícius\OneDrive\Área de Trabalho\Atividade 1\Atividade 1\obj\Debug\net8.0\Atividade 1.dll
+C:\Users\Vinícius\OneDrive\Área de Trabalho\Atividade 1\Atividade 1\obj\Debug\net8.0\refint\Atividade 1.dll
+C:\Users\Vinícius\OneDrive\Área de Trabalho\Atividade 1\Atividade 1\obj\Debug\net8.0\Atividade 1.pdb
+C:\Users\Vinícius\OneDrive\Área de Trabalho\Atividade 1\Atividade 1\obj\Debug\net8.0\Atividade 1.genruntimeconfig.cache
+C:\Users\Vinícius\OneDrive\Área de Trabalho\Atividade 1\Atividade 1\obj\Debug\net8.0\ref\Atividade 1.dll
